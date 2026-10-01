@@ -1,6 +1,6 @@
 cask "eisukana-switch" do
-  version "0.1.0-beta.1"
-  sha256 "fd4d6b1ed770aa0f97770b61690858d8a045a00f67bf22e37af1c89e1af0a610"
+  version "0.1.0"
+  sha256 "9e797457f6cd2695d9e368c4ec86df9e8cc5c8bcca439ea2f021481f968c1f7e"
 
   url "https://github.com/HaruhikoMotokawa/eisukana-switch/releases/download/v#{version}/EisuKanaSwitch-#{version}.zip"
   name "EisuKana Switch"
